@@ -2,7 +2,6 @@
 
 - 🔭 Hoje eu trabalho com front-end e back-end
 - 🌱 Estudando: NodeJS e Banco de Dados.
-- 😄 Pronouns: ele/dele.
 
 <div align="center">
   <a href="https://github.com/Ka9ddc">
