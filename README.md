@@ -1,7 +1,6 @@
 ### Olá! Eu sou o Murylo Ferreira.
 
 - 🔭 Hoje eu trabalho com front-end e back-end
-- 🌱 Estudando: NodeJS e Banco de Dados.
 
 <div align="center">
   <a href="https://github.com/Ka9ddc">
