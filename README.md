@@ -21,7 +21,7 @@
    
   ##
   
-  <img align="center" alt="banner" style="border-radius:50px;" src="https://cdn.wallpapersafari.com/60/93/r6Hqxf.jpg">
+  <img align="center" width="450" height="450" alt="banner" style="border-radius:50px;" src="https://cdn.wallpapersafari.com/60/93/r6Hqxf.jpg">
   
   ##
  
