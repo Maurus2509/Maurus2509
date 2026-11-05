@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Murylo Ferreira.
 
-- 🔭 Hoje eu trabalho com front-end e back-end
+- 🔭 Hoje eu trabalho com Análise de Dados e Machine Learning
 
 <div style="display: inline_block"><br>
   <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
